@@ -1,0 +1,9 @@
+## Interface: 40300
+## Title : MacroChanger
+## Notes: Base for new WoW addons
+## Author: Heliox 
+## Version: 1.0
+## Dependencies: 
+## SavedVariablesPerCharacter: MacroChangerPrefs
+
+MacroChanger.lua
